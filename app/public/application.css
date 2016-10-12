@@ -1,1 +1,58 @@
+body {
+  background-image: url(https://s3-ap-southeast-1.amazonaws.com/cloud-skcript/wp-content/uploads/2014/05/25090337/robots.jpg);
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
 
+h1 {
+  margin-top: 230px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+a {
+  text-align: center;
+}
+
+#btns {
+  text-align: center;
+}
+
+.form-control {
+  width: 50%;
+}
+
+#subbut{
+  margin-top:20px;
+}
+
+.myform{
+    margin-top: 200px;
+    margin-left: 280px;
+    width:80% /* value of your choice which suits your alignment */
+}
+
+#task-list {
+  text-align:center;
+}
+
+#one-task {
+  text-align:center;
+}
+
+.taskbtn {
+  margin-top: 200px;
+}
+
+html *
+{
+   color: #000 !important;
+   font-family: Courier !important;
+}
+
+.all-robos {
+  display: inline;
+  float:right;
+}
